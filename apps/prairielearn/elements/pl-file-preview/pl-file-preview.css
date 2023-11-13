@@ -33,3 +33,6 @@
 [id^='file-preview'] .file-preview pre {
   max-height: 200px;
 }
+[id^='file-preview'] .file-preview.show-in-full pre {
+  max-height: 100%;
+}
