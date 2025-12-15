@@ -1,5 +1,5 @@
 FROM amazonlinux:2023
-ARG CACHEBUST=2025-04-15-14-15-50
+ARG CACHEBUST=2025-12-15-14-17-42
 
 COPY plbase-install.sh python-requirements.txt /
 
